@@ -121,7 +121,7 @@ p42
 F1.0
 sS'base_net_weights'
 p43
-S'model_frcnn.tf.3.hdf5'
+S'pretrained-model.tf.3.hdf5'
 p44
 sS'classifier_regr_std'
 p45
@@ -132,7 +132,7 @@ aF4.0
 aF4.0
 asS'model_path'
 p47
-S'./model_frcnn.hdf5'
+S'./pretrained-model.hdf5'
 p48
 sS'classifier_max_overlap'
 p49
