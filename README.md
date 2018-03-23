@@ -28,3 +28,6 @@ Training deep neural networks is time-consumming. To use this tool directy on un
 ```cd path-to-the-working-directory```
 
 ```inference.py --input_file path-to-input-folder\input-video.mp4 --output_file path-to-output-folder\output-video.mp4 --frame_rate=30```
+
+
+https://www.youtube.com/watch?v=H6Q7f-zGnNM
