@@ -29,5 +29,5 @@ Training deep neural networks is time-consumming. To use this tool directy on un
 
 ```inference.py --input_file path-to-input-folder\input-video.mp4 --output_file path-to-output-folder\output-video.mp4 --frame_rate=30```
 
-[linkname](https://www.youtube.com/watch?v=H6Q7f-zGnNM)
+This [video](https://www.youtube.com/watch?v=H6Q7f-zGnNM) shows an example of the results obtained from some transport videos.
 
