@@ -23,6 +23,8 @@ This project replies on [Keras 2.0.7](https://faroit.github.io/keras-docs/2.0.7/
 
 ## Get started 
 
-Training deep neural networks is time-consumming. To use this tool directy on unseen videos, you can dowload pre-trained model [here]( https://drive.google.com/open?id=1xNjHc2bLwRc_HkqwtIwIKApP50r0-vOw). Putting it into the working directory, and performing the inference stage by command:
+Training deep neural networks is time-consumming. To use this tool directy on unseen videos, you can dowload pre-trained model [here]( https://drive.google.com/open?id=1xNjHc2bLwRc_HkqwtIwIKApP50r0-vOw). Putting it into the working directory, opennining command prompt  and performing the inference stage by command:
 
-inference.py --input_file path-to-input-video --output_file path-to-input-video --frame_rate=30
+```cd path-to-the-working-directory```
+
+```inference.py --input_file path-to-input-video --output_file path-to-output-folder\out-video-name.mp4 --frame_rate=30```
