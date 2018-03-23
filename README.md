@@ -20,3 +20,7 @@ In this project, we use [Faster R-CNN](https://arxiv.org/abs/1506.01497) to buil
 ## Requirements
 
 This project replies on [Keras 2.0.7](https://faroit.github.io/keras-docs/2.0.7/), [TensorFlow 1.0.3](https://www.tensorflow.org/install/), [OpenCV-Python 3.3.0](https://pypi.python.org/pypi/opencv-contrib-python/3.3.0.10), [scikit-learn 0.19.0](https://pypi.python.org/pypi/scikit-learn/0.19.0), [h5py 2.7.0](https://pypi.python.org/pypi/h5py/2.7.0), and [numpy 1.13.1](https://pypi.python.org/pypi/numpy/1.13.1). More details about the instalation these libraies on Windows can be found [here](https://github.com/huyhieupham/Installing-Keras-Theao-Tensorflow-with-GPU-on-Windows-10).
+
+## Get started 
+
+Training deep neural networks is time-consumming. To use this tool directy on unseen videos, you can dowload pre-trained model [here]( https://drive.google.com/open?id=1xNjHc2bLwRc_HkqwtIwIKApP50r0-vOw). Putting it into the 
