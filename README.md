@@ -23,4 +23,6 @@ This project replies on [Keras 2.0.7](https://faroit.github.io/keras-docs/2.0.7/
 
 ## Get started 
 
-Training deep neural networks is time-consumming. To use this tool directy on unseen videos, you can dowload pre-trained model [here]( https://drive.google.com/open?id=1xNjHc2bLwRc_HkqwtIwIKApP50r0-vOw). Putting it into the 
+Training deep neural networks is time-consumming. To use this tool directy on unseen videos, you can dowload pre-trained model [here]( https://drive.google.com/open?id=1xNjHc2bLwRc_HkqwtIwIKApP50r0-vOw). Putting it into the working directory, and performing the inference stage by command:
+
+
