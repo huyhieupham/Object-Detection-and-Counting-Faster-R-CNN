@@ -15,4 +15,4 @@ Basically, a Faster R-CNN uses a *Region Proposal Network (RPN)* to generate hig
 The unified network of Faster R-CNN proposed by [Faster R-CNN](https://arxiv.org/abs/1506.01497). The first component is a deep fully convolutional network that proposes region proposals. The second component is the [Fast R-CNN](https://arxiv.org/abs/1504.08083) detector.
 
 
-A vision-based tool for transport system flow analysis using Faster R-CNN. This system is able to detect different types of objects, e.g., cars, buses, pedestrians, and classify as well as count them in transport videos with a real-time speech.
+In this project, we use [Faster R-CNN](https://arxiv.org/abs/1506.01497) to build a vision-based tool for transport system flow analysis. This system is able to detect different types of objects, e.g., cars, buses, pedestrians, and classify as well as count them in transport videos with a real-time speech.
