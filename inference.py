@@ -18,11 +18,11 @@ import re
 import subprocess
 
 parser = OptionParser()
-parser.add_option("-i", "--input_file", dest="input_file", help="Path to input video file.")
-parser.add_option("-o", "--output_file", dest="output_file", help="Path to output video file.", default="output.mp4")
-parser.add_option("-d", "--input_dir", dest="input_dir", help="Path to input working directory.", default="C:/Users/Huy-Hieu.Pham/Desktop/keras-frcnn-master")
-parser.add_option("-u", "--output_dir", dest="output_dir", help="Path to output working directory.", default="C:/Users/Huy-Hieu.Pham/Desktop/keras-frcnn-master/outputs")
-parser.add_option("-r", "--frame_rate", dest="frame_rate", help="Frame rate of the output video.", default=25.0)
+parser.add_option("-i", "--input_file", dest="input_file")
+parser.add_option("-o", "--output_file", dest="output_file")
+parser.add_option("-d", "--input_dir", dest="input_dir", default="C:/Users/Huy-Hieu.Pham/Desktop/keras-frcnn-master")
+parser.add_option("-u", "--output_dir", dest="output_dir", default="C:/Users/Huy-Hieu.Pham/Desktop/keras-frcnn-master/outputs")
+parser.add_option("-r", "--frame_rate", dest="frame_rate")
 
 (options, args) = parser.parse_args()
 if not options.input_file:   # if filename is not given
